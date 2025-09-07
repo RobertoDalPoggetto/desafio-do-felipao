@@ -8,4 +8,4 @@ else if (XP >= 5001 && XP <= 7000) {console.log ("O Herói " + nome + " está no
 else if (XP >= 7001 && XP <= 8000) {console.log ("O Herói " + nome + " está no nivel " + nivel[4])}
 else if (XP >= 8001 && XP <= 9000) {console.log ("O Herói " + nome + " está no nivel " + nivel[5])}
 else if (XP >= 9001 && XP <= 10000) {console.log ("O Herói " + nome + " está no nivel " + nivel[6])}
-else if (XP >= 10001) {console.log ("O Herói " + nome + " está no nivel " + nivel[7])}
+else if (XP >= 10001) {console.log ("O Herói de nome " + nome + " está no nível de " + nivel[7] + "!")}
